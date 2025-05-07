@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CalculadoraCsharp\\CalCS\\CalCS.csproj",
+      "projectUniqueName": "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj",
       "projectName": "CalCS",
-      "projectPath": "D:\\CalculadoraCsharp\\CalCS\\CalCS.csproj",
+      "projectPath": "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj",
       "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-      "outputPath": "D:\\CalculadoraCsharp\\CalCS\\obj\\",
+      "outputPath": "D:\\CalculadoraCsharpXD\\CalCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
