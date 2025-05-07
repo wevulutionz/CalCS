@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj": {}
+    "D:\\CalculadoraCsharp\\pull\\CalCS\\CalCS.csproj": {}
   },
   "projects": {
-    "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj": {
+    "D:\\CalculadoraCsharp\\pull\\CalCS\\CalCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj",
+        "projectUniqueName": "D:\\CalculadoraCsharp\\pull\\CalCS\\CalCS.csproj",
         "projectName": "CalCS",
-        "projectPath": "D:\\CalculadoraCsharpXD\\CalCS\\CalCS.csproj",
+        "projectPath": "D:\\CalculadoraCsharp\\pull\\CalCS\\CalCS.csproj",
         "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-        "outputPath": "D:\\CalculadoraCsharpXD\\CalCS\\obj\\",
+        "outputPath": "D:\\CalculadoraCsharp\\pull\\CalCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+D:\CalculadoraCsharp\pull\CalCS\bin\Debug\net9.0\CalCS.exe
+D:\CalculadoraCsharp\pull\CalCS\bin\Debug\net9.0\CalCS.deps.json
+D:\CalculadoraCsharp\pull\CalCS\bin\Debug\net9.0\CalCS.runtimeconfig.json
+D:\CalculadoraCsharp\pull\CalCS\bin\Debug\net9.0\CalCS.dll
+D:\CalculadoraCsharp\pull\CalCS\bin\Debug\net9.0\CalCS.pdb
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.AssemblyInfoInputs.cache
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.AssemblyInfo.cs
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.csproj.CoreCompileInputs.cache
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.sourcelink.json
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.dll
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\refint\CalCS.dll
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.pdb
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\CalCS.genruntimeconfig.cache
+D:\CalculadoraCsharp\pull\CalCS\obj\Debug\net9.0\ref\CalCS.dll
